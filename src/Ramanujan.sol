@@ -24,7 +24,7 @@ library ramanujansAlgorithm {
     // Ramanujan's series for π converges extraordinarily rapidly and forms
     // the basis of some of the fastest algorithms currently used to calculate π
     // Complexity is O(k**2) where k is the amount of itterations
-    // Each iteration calculates aproximately 8 digits of precision
+    // Each iteration calculates aproximately 8 additional digits of precision
     function ramanujans(uint256 iters) internal pure returns (uint256 Pi) {
         uint256 Sum;
         uint256 Counter;
