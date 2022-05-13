@@ -7,13 +7,13 @@ This is a solidity library that implements Ramujan's Algorithm for approximating
 To install with [DappTools](https://github.com/dapphub/dapptools):
 
 ```
-dapp install [0xJpsen]/[Ramanujan-Algorithm]
+dapp install 0xJpsen/Ramanujan-Algorithm
 ```
 
 To install with [Foundry](https://github.com/gakonst/foundry):
 
 ```
-forge install [0xJpsen]/[Ramanujan-Algorithm]
+forge install 0xJpsen/Ramanujan-Algorithm
 ```
 
 ## Local development
